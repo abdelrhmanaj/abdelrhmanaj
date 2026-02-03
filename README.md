@@ -56,14 +56,14 @@ Sensor data collection, processing, and visualization pipeline.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrhmanaj&show_icons=true)
 
 ---
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: (Add later if you want)
+📧 Email: abdelrhmanaja.com  
+💼 LinkedIn: (https://www.linkedin.com/in/abdelrhmanaja/)
 
 ---
 
