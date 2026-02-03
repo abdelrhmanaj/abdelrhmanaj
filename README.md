@@ -74,9 +74,7 @@
 
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelrhmanaj&theme=tokyonight" />
-</p>
 
-<p align="right">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelrhmanaj&theme=tokyonight" />
 </p>
 
