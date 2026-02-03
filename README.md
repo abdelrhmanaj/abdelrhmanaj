@@ -36,11 +36,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanaj&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanaj&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=abdelrhmanaj" />
+<img src="https://streak-stats.demolab.com?user=abdelrhmanaj&theme=tokyonight" />
 </p>
 
 ---
@@ -48,10 +48,11 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanaj&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanaj&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
+
 
 
 ⭐ **Always learning. Always building.**
