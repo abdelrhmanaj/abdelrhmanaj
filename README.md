@@ -49,6 +49,11 @@
 <img src="https://img.shields.io/badge/Phone-%2B20%201020%20187889-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Phone-%2B20%201154%54758422-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p
 
 
 ---
