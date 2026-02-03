@@ -3,18 +3,12 @@
 
 ---
 
-## 🌐 Connect with me
+## 🧠 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/abdelrhmanaja" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:abdelrhmanaja@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
+- 🔭 Currently working on **Low-Level Systems & Embedded Programming**
+- 🌱 Learning **Artificial Intelligence & Data Analysis**
+- 🧩 Interested in **Kernel Development & Memory Management**
+- ⚡ Strong interest in **IoT Systems & Device Programming**
 ---
 
 ## 💻 Languages and Tools
@@ -27,36 +21,26 @@
 
 ---
 
-## 🧠 About Me
+## 🌐 Connect with me
 
-- 🔭 Currently working on **Low-Level Systems & Embedded Programming**
-- 🌱 Learning **Artificial Intelligence & Data Analysis**
-- 🧩 Interested in **Kernel Development & Memory Management**
-- ⚡ Strong interest in **IoT Systems & Device Programming**
+<p align="left">
+<a href="https://linkedin.com/in/abdelrhmanaja" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
----
-
-## 🚀 Featured Projects
-
-🔹 **Kernel Memory Allocator (C)**  
-Low-level memory management implementation and optimization.
-
-🔹 **JavaFX User Management System**  
-GUI application with authentication and dynamic user tables.
-
-🔹 **IoT Monitoring Prototype**  
-Sensor data collection and processing pipeline.
-
----
+<a href="mailto:abdelrhmanaja@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanja&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanaj&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanaj" />
+<img src="https://streak-stats.demolab.com?user=abdelrhmanaj" />
 </p>
 
 ---
@@ -68,5 +52,6 @@ Sensor data collection and processing pipeline.
 </p>
 
 ---
+
 
 ⭐ **Always learning. Always building.**
