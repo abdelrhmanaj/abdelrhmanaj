@@ -33,6 +33,8 @@
 </a>
 </p>
 
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
