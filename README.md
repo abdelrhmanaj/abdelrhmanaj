@@ -62,7 +62,7 @@ Sensor data collection, processing, and visualization pipeline.
 
 ## 📫 Contact
 
-📧 Email: abdelrhmanaja.com  
+📧 Email: abdelrhmanaja@gmail.com  
 💼 LinkedIn: (https://www.linkedin.com/in/abdelrhmanaja/)
 
 ---
