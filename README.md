@@ -14,7 +14,7 @@
 ## 💻 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,react,nodejs,mysql,mongodb,git,linux,vscode,verilog,vhdl" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,react,nodejs,mysql,mongodb,git,linux,vscode" />
 </p>
 
 <p align="center">
