@@ -13,10 +13,8 @@
 
 ## 💻 Languages and Tools
 
-<p align="left">
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,react,nodejs,mysql,mongodb,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,react,nodejs,mysql,mongodb,git,linux,vscode,verilog,vhdl" />
 </p>
 
 <p align="center">
@@ -27,21 +25,28 @@
 </p>
 
 
-</p>
-
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/abdelrhmanaja" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+
+<a href="https://linkedin.com/in/abdelrhmanaja" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
 <a href="mailto:abdelrhmanaja@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
+
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Phone-%2B20%201020%20187889-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+</p>
+
 
 ---
 
