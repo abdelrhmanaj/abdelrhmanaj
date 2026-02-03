@@ -18,11 +18,14 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/C-Embedded%20Systems-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-Desktop%20UI-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Verilog-FPGA%20HDL-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VHDL-Hardware%20Design-1E90FF?style=for-the-badge" />
 </p>
+
 
 
 ---
