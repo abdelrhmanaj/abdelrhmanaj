@@ -33,11 +33,7 @@
 </a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanaj&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=abdelrhmanaj&theme=tokyonight" />
@@ -45,13 +41,20 @@
 
 ---
 
-## 📈 Most Used Languages
+## 🏆 Profile Summary
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanaj&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrhmanaj&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelrhmanaj&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelrhmanaj&theme=tokyonight" />
+</p>
+
 
 
 
