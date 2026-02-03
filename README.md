@@ -15,7 +15,17 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,mysql,git,linux,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,react,nodejs,mysql,mongodb,git,linux,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Embedded%20Systems-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
 
 </p>
 
